@@ -1,5 +1,4 @@
-# **Computer Workshop #1:** 
-# *Research of methods of formation of fuzzy sets and operations on them*
+# **Computer Workshop #1:** *Research of methods of formation of fuzzy sets and operations on them*
 **Objective:** *To build fuzzy sets using different types of membership functions. Perform the most common logical operations on fuzzy sets.*
 
 ## :brain: Statement of the Task for Computer Workshop #1:
